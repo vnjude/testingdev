@@ -15,13 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <plugins>
-	<plugin>
-	  <groupId>com.mkyong</groupId>
-	  <artifactId>MyWebApp-plugin</artifactId>
-	</plugin>
-  </plugin>
   <build>
-	  <finalName>MyWebApp</finalName>
+    <finalName>MyWebApp</finalName>
   </build>
 </project>
