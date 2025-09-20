@@ -15,13 +15,13 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <build>
-    <finalName>MyWebApp</finalName>
-  </build>
   <plugins>
 	<plugin>
 	  <groupId>com.mkyong</groupId>
 	  <artifactId>MyWebApp-plugin</artifactId>
 	</plugin>
   </plugin>
+  <build>
+	  <finalName>MyWebApp</finalName>
+  </build>
 </project>
